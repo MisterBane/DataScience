@@ -1,0 +1,1000 @@
+,date,team1,team1_score,team2,team2_score,winner,map
+0,2021-12-16 10:00,1620 Kings,16,8Ballers,7,1620 Kings,Dust2
+1,2021-12-15 10:00,Paradox,16,1620 Kings,7,Paradox,Nuke
+2,2022-01-19 16:30,1shot,7,Astralis Talent,16,Astralis Talent,Vertigo
+3,2022-01-22 13:10,1shot,16,D13,9,1shot,Nuke
+4,2022-01-16 19:15,DBL PONEY,16,1shot,8,DBL PONEY,Vertigo
+5,2021-12-17 19:00,Into the Breach,12,1shot,16,1shot,Nuke
+6,2022-01-16 16:00,1shot,16,MONKE,14,1shot,Vertigo
+7,2021-12-16 19:00,Nemiga,19,1shot,22,1shot,Nuke
+8,2021-12-18 19:15,SAW,16,1shot,9,SAW,Ancient
+9,2021-12-18 19:15,SAW,14,1shot,16,1shot,Dust2
+10,2022-01-23 10:00,1shot,17,SINNERS,19,SINNERS,Inferno
+11,2022-01-24 18:00,1WIN,7,Endpoint,16,Endpoint,Mirage
+12,2021-12-16 19:00,1WIN,10,Entropiq,16,Entropiq,Ancient
+13,2021-12-16 19:00,1WIN,14,Entropiq,16,Entropiq,Mirage
+14,2022-01-27 09:00,Eternal Fire,25,1WIN,28,1WIN,Vertigo
+15,2021-12-15 19:00,GamerLegion,16,1WIN,11,GamerLegion,Overpass
+16,2022-01-25 13:15,HEET,16,1WIN,10,HEET,Vertigo
+17,2022-01-26 19:00,1WIN,16,Into the Breach,13,1WIN,Ancient
+18,2022-01-24 10:00,Los Reyes,9,1WIN,16,1WIN,Ancient
+19,2022-01-25 19:00,1WIN,12,Nemiga,16,Nemiga,Vertigo
+20,2022-02-01 19:00,1WIN,19,Nemiga,17,1WIN,Vertigo
+21,2022-01-25 09:00,1WIN,4,SAW,16,SAW,Ancient
+22,2022-01-25 09:00,1WIN,16,SAW,9,1WIN,Nuke
+23,2022-01-26 12:00,Sprout,19,1WIN,17,Sprout,Overpass
+24,2022-01-16 19:00,equipa,14,4750mix,16,4750mix,Nuke
+25,2022-01-16 19:00,equipa,16,4750mix,9,equipa,Overpass
+26,2022-01-30 19:40,Galaxy Racer fe,16,4750mix,3,Galaxy Racer fe,Ancient
+27,2022-01-20 13:35,KOVA,19,4glory,17,KOVA,Nuke
+28,2022-01-20 13:35,KOVA,22,4glory,20,KOVA,Ancient
+29,2022-01-18 15:00,Dignitas,16,777,14,Dignitas,Mirage
+30,2022-01-17 16:50,Enterprise,16,777,10,Enterprise,Overpass
+31,2022-01-31 15:00,777,16,Enterprise,3,777,Overpass
+32,2022-01-24 15:00,777,14,Finest,16,Finest,Mirage
+33,2022-01-22 19:00,777,23,Wisla Krakow,25,Wisla Krakow,Mirage
+34,2021-12-16 10:00,1620 Kings,16,8Ballers,13,1620 Kings,Nuke
+35,2021-12-15 10:00,8Ballers,4,ORDER,16,ORDER,Mirage
+36,2022-01-27 18:00,ECSTATIC,11,AGF,16,AGF,Vertigo
+37,2022-01-27 18:00,ECSTATIC,19,AGF,16,ECSTATIC,Inferno
+38,2022-01-17 18:00,Entropiq,12,AGF,16,AGF,Ancient
+39,2021-12-19 11:30,AGO,9,Anonymo,16,Anonymo,Vertigo
+40,2022-01-25 15:00,AGO,14,fnatic Rising,16,fnatic Rising,Ancient
+41,2022-01-20 19:00,AGO,9,Savage,16,Savage,Ancient
+42,2022-01-24 19:00,AGO,4,Wisla Krakow,16,Wisla Krakow,Nuke
+43,2022-01-23 17:30,InControl,16,Alex Rider,9,InControl,Vertigo
+44,2022-01-23 17:30,InControl,16,Alex Rider,14,InControl,Overpass
+45,2022-01-23 20:20,all aim no name,16,Fragging for Jason,6,all aim no name,Mirage
+46,2022-01-24 01:10,all aim no name,4,InControl,16,InControl,Vertigo
+47,2022-01-24 01:10,all aim no name,11,InControl,16,InControl,Mirage
+48,2022-01-23 17:30,RIP Kobe,8,all aim no name,16,all aim no name,Mirage
+49,2022-01-17 10:00,AVE,16,ALTERNATE aTTaX,8,AVE,Dust2
+50,2022-01-07 14:35,Ambush,16,Exalty,11,Ambush,Inferno
+51,2022-01-07 20:30,Ambush,16,FTW,1,Ambush,Inferno
+52,2022-01-09 20:40,FTW,16,Ambush,7,FTW,Nuke
+53,2022-01-09 16:35,Ambush,11,GameAgents,16,GameAgents,Ancient
+54,2022-01-19 10:00,Nexus,16,Ambush,9,Nexus,Dust2
+55,2022-01-19 10:00,Nexus,16,Ambush,7,Nexus,Nuke
+56,2021-12-19 11:30,AGO,8,Anonymo,16,Anonymo,Inferno
+57,2021-12-19 17:30,Anonymo,16,UNGENTIUM,5,Anonymo,Overpass
+58,2022-01-19 13:35,ex-Coalesce,13,Apeks Rebels,16,Apeks Rebels,Ancient
+59,2022-01-19 13:35,ex-Coalesce,16,Apeks Rebels,4,ex-Coalesce,Overpass
+60,2022-01-24 12:00,BLINK,13,Apeks,16,Apeks,Mirage
+61,2022-01-19 15:00,Apeks,10,EC Kyiv,16,EC Kyiv,Inferno
+62,2022-01-19 15:00,Apeks,9,EC Kyiv,16,EC Kyiv,Vertigo
+63,2022-01-26 18:00,Apeks,16,Endpoint,13,Apeks,Mirage
+64,2022-01-26 18:00,Apeks,16,Endpoint,5,Apeks,Vertigo
+65,2022-01-31 12:00,Apeks,16,Endpoint,4,Apeks,Mirage
+66,2022-02-01 15:55,fnatic,13,Apeks,16,Apeks,Inferno
+67,2022-01-17 16:50,GamerLegion,12,Apeks,16,Apeks,Overpass
+68,2022-01-21 12:20,Apeks,16,GMT,8,Apeks,Inferno
+69,2022-01-18 09:00,Apeks,16,MASONIC,9,Apeks,Vertigo
+70,2022-01-20 12:35,Apeks,16,OneTap,4,Apeks,Mirage
+71,2022-01-25 15:00,SKADE,16,Apeks,10,SKADE,Inferno
+72,2022-01-25 15:00,SKADE,12,Apeks,16,Apeks,Overpass
+73,2022-02-02 15:00,Apeks,16,Wisla Krakow,11,Apeks,Nuke
+74,2022-02-02 15:00,Apeks,16,Wisla Krakow,9,Apeks,Overpass
+75,2022-01-19 16:30,1shot,16,Astralis Talent,12,1shot,Nuke
+76,2022-01-19 16:30,1shot,16,Astralis Talent,11,1shot,Mirage
+77,2022-01-07 18:15,BIG Academy,16,Astralis Talent,8,BIG Academy,Vertigo
+78,2022-01-09 17:00,Astralis Talent,16,fnatic Rising,6,Astralis Talent,Vertigo
+79,2022-01-09 17:00,Astralis Talent,16,fnatic Rising,6,Astralis Talent,Vertigo
+80,2022-01-14 16:00,Astralis Talent,1,fnatic Rising,16,fnatic Rising,Ancient
+81,2022-01-05 19:10,NAVI Junior,16,Astralis Talent,12,NAVI Junior,Vertigo
+82,2022-01-15 16:00,NAVI Junior,10,Astralis Talent,16,Astralis Talent,Mirage
+83,2022-01-03 17:00,Young Ninjas,16,Astralis Talent,8,Young Ninjas,Vertigo
+84,2022-01-16 16:00,Young Ninjas,12,Astralis Talent,16,Astralis Talent,Overpass
+85,2022-01-22 15:00,Astralis,16,Entropiq,13,Astralis,Ancient
+86,2022-01-20 15:00,Astralis,16,fnatic,2,Astralis,Mirage
+87,2022-01-20 15:00,Astralis,19,fnatic,16,Astralis,Inferno
+88,2022-01-18 15:00,Astralis,19,K23,22,K23,Mirage
+89,2022-01-18 15:00,Astralis,19,K23,22,K23,Mirage
+90,2021-12-17 21:00,Astralis,13,Liquid,16,Liquid,Mirage
+91,2022-01-29 19:15,Natus Vincere,17,Astralis,19,Astralis,Mirage
+92,2021-12-16 13:30,NIP,8,Astralis,16,Astralis,Inferno
+93,2021-12-15 17:30,Vitality,16,Astralis,6,Vitality,Mirage
+94,2022-02-02 02:00,ATK,8,Bad News Bears,16,Bad News Bears,Nuke
+95,2022-01-30 00:55,ChocoCheck,16,ATK,9,ChocoCheck,Inferno
+96,2022-01-23 22:10,Party Astronauts,16,ATK,11,Party Astronauts,Overpass
+97,2022-01-22 22:50,ATK,11,RBG,16,RBG,Overpass
+98,2022-01-22 22:50,ATK,16,RBG,11,ATK,Nuke
+99,2022-01-27 02:00,ATK,16,Third Impact,5,ATK,Inferno
+100,2022-01-27 02:00,ATK,28,Third Impact,25,ATK,Mirage
+101,2022-01-30 20:00,AVANGAR,16,Enterprise,19,Enterprise,Overpass
+102,2022-01-30 16:00,Tricked,14,AVANGAR,16,AVANGAR,Vertigo
+103,2022-01-17 10:00,AVE,16,ALTERNATE aTTaX,4,AVE,Nuke
+104,2022-01-21 19:00,AVE,16,ex-Coalesce,12,AVE,Nuke
+105,2022-01-24 13:00,AVE,16,HEET,19,HEET,Dust2
+106,2022-01-08 18:05,EC Kyiv,26,B8,28,B8,Mirage
+107,2022-01-21 16:05,B8,7,Entropiq Prague,16,Entropiq Prague,Dust2
+108,2021-12-25 15:00,B8,16,GUESS,6,B8,Mirage
+109,2021-12-26 18:00,B8,17,IKIGAI,19,IKIGAI,Ancient
+110,2021-12-26 18:00,B8,16,IKIGAI,13,B8,Mirage
+111,2022-01-18 13:00,OFFSET,5,B8,16,B8,Overpass
+112,2022-01-08 12:10,B8,16,okura,4,B8,Nuke
+113,2022-01-08 12:10,B8,16,okura,3,B8,Ancient
+114,2022-01-16 15:05,B8,16,Run or Die,2,B8,Vertigo
+115,2022-01-16 15:05,B8,16,Run or Die,7,B8,Overpass
+116,2022-01-16 15:05,B8,9,Run or Die,16,Run or Die,Mirage
+117,2022-01-15 15:10,B8,16,Run or Die,9,B8,Dust2
+118,2022-01-16 15:05,B8,10,Run or Die,16,Run or Die,Dust2
+119,2022-02-02 02:00,ATK,16,Bad News Bears,7,ATK,Inferno
+120,2022-01-02 19:00,BOOZOOMERS,16,Bad News Bears,11,BOOZOOMERS,Inferno
+121,2022-01-02 19:00,BOOZOOMERS,7,Bad News Bears,16,Bad News Bears,Mirage
+122,2022-01-03 02:45,Bad News Bears,19,ChocoCheck,17,Bad News Bears,Mirage
+123,2021-12-15 02:00,Bad News Bears,6,Extra Salt,16,Extra Salt,Ancient
+124,2021-12-17 02:00,RBG,16,Bad News Bears,11,RBG,Overpass
+125,2021-12-17 02:00,RBG,16,Bad News Bears,13,RBG,Inferno
+126,2022-01-02 22:50,Strife,6,Bad News Bears,16,Bad News Bears,Inferno
+127,2021-12-16 02:00,Triumph,15,Bad News Bears,19,Bad News Bears,Ancient
+128,2022-01-07 17:00,Astralis Talent,13,BIG Academy,16,BIG Academy,Vertigo
+129,2022-01-25 13:20,BIG Academy,4,Dignitas,16,Dignitas,Nuke
+130,2022-01-17 10:50,BIG Academy,11,eSuba,16,eSuba,Nuke
+131,2022-01-11 18:30,BIG Academy,12,fnatic Rising,16,fnatic Rising,Vertigo
+132,2022-01-19 15:20,Into the Breach,16,BIG Academy,8,Into the Breach,Ancient
+133,2022-01-03 20:30,NAVI Junior,5,BIG Academy,16,BIG Academy,Inferno
+134,2022-02-02 13:50,SINNERS,16,BIG Academy,13,SINNERS,Vertigo
+135,2022-01-09 20:55,BIG Academy,16,Young Ninjas,14,BIG Academy,Nuke
+136,2021-12-15 02:00,Big Chillin,16,Detonate,8,Big Chillin,Overpass
+137,2021-12-15 02:00,Big Chillin,10,Detonate,16,Detonate,Ancient
+138,2022-01-28 19:10,Complexity,10,BIG,16,BIG,Nuke
+139,2022-01-24 12:00,Entropiq,16,BIG,13,Entropiq,Mirage
+140,2022-01-24 12:00,Entropiq,16,BIG,14,Entropiq,Nuke
+141,2022-01-19 12:00,fnatic,7,BIG,16,BIG,Overpass
+142,2022-01-19 12:00,fnatic,12,BIG,16,BIG,Nuke
+143,2022-01-23 15:50,Gambit,16,BIG,5,Gambit,Ancient
+144,2022-01-21 15:25,K23,16,BIG,12,K23,Mirage
+145,2022-01-21 15:25,K23,4,BIG,16,BIG,Overpass
+146,2022-01-28 20:40,NIP,16,BIG,9,NIP,Nuke
+147,2022-01-13 22:00,Stars Horizon,13,Black Dragons,16,Black Dragons,Vertigo
+148,2022-01-12 22:00,Black Dragons,16,SWS,14,Black Dragons,Vertigo
+149,2022-01-24 12:00,BLINK,12,Apeks,16,Apeks,Ancient
+150,2021-12-16 19:00,BLINK,16,Copenhagen Flames,7,BLINK,Nuke
+151,2021-12-17 19:00,Entropiq,13,BLINK,16,BLINK,Mirage
+152,2021-12-17 19:00,Entropiq,16,BLINK,9,Entropiq,Ancient
+153,2022-01-26 09:00,Eternal Fire,14,BLINK,16,BLINK,Vertigo
+154,2022-01-19 18:00,BLINK,16,fnatic Rising,6,BLINK,Ancient
+155,2022-01-19 18:00,BLINK,16,fnatic Rising,6,BLINK,Inferno
+156,2021-12-15 19:00,BLINK,13,Sprout,16,Sprout,Dust2
+157,2022-01-25 16:50,Sprout,13,BLINK,16,BLINK,Dust2
+158,2022-01-25 09:00,BLINK,3,Wisla Krakow,16,Wisla Krakow,Nuke
+159,2021-12-18 12:00,Copenhagen Flames,16,BLUEJAYS,13,Copenhagen Flames,Overpass
+160,2021-12-16 12:00,Dignitas,16,BLUEJAYS,5,Dignitas,Nuke
+161,2021-12-19 12:00,Dignitas,13,BLUEJAYS,16,BLUEJAYS,Vertigo
+162,2021-12-17 15:15,BLUEJAYS,12,Entropiq,16,Entropiq,Ancient
+163,2021-12-17 15:15,BLUEJAYS,16,Entropiq,3,BLUEJAYS,Dust2
+164,2022-01-29 09:50,forZe,10,BLUEJAYS,16,BLUEJAYS,Mirage
+165,2022-01-29 09:50,forZe,19,BLUEJAYS,17,forZe,Dust2
+166,2021-12-19 15:30,K23,16,BLUEJAYS,14,K23,Overpass
+167,2022-01-02 19:00,BOOZOOMERS,11,Bad News Bears,16,Bad News Bears,Overpass
+168,2021-12-19 13:30,Moon,11,Born in the East,16,Born in the East,Nuke
+169,2021-12-19 19:10,Goliath,16,Bravado,10,Goliath,Inferno
+170,2021-12-17 03:00,Brazen,13,Detonate,16,Detonate,Inferno
+171,2021-12-15 02:30,Kinship,0,Brazen,16,Brazen,Nuke
+172,2021-12-18 02:30,Valors,16,Brazen,14,Valors,Nuke
+173,2021-12-18 02:30,Valors,16,Brazen,8,Valors,Mirage
+174,2021-12-16 02:00,voLante,7,Brazen,16,Brazen,Mirage
+175,2021-12-18 08:00,NKT,8,Checkmate,16,Checkmate,Nuke
+176,2022-01-03 06:00,Renewal,14,Checkmate,16,Checkmate,Dust2
+177,2022-01-03 11:05,Steel Helmet,7,Checkmate,16,Checkmate,Mirage
+178,2022-01-02 07:00,Checkmate,9,TBC,16,TBC,Ancient
+179,2022-01-02 07:00,Checkmate,16,TBC,9,Checkmate,Nuke
+180,2021-12-18 13:15,ViCi,16,Checkmate,13,ViCi,Nuke
+181,2022-01-03 02:45,Bad News Bears,16,ChocoCheck,2,Bad News Bears,Overpass
+182,2022-01-20 02:00,ChocoCheck,16,Disconnected,7,ChocoCheck,Mirage
+183,2021-12-17 02:00,ChocoCheck,4,Extra Salt,16,Extra Salt,Nuke
+184,2022-01-02 19:00,MongolZ,9,ChocoCheck,16,ChocoCheck,Mirage
+185,2022-01-31 01:00,ChocoCheck,5,Orgless,16,Orgless,Ancient
+186,2021-12-19 02:00,ChocoCheck,28,paiN,25,ChocoCheck,Dust2
+187,2022-02-02 02:00,Party Astronauts,11,ChocoCheck,16,ChocoCheck,Nuke
+188,2022-02-02 02:00,Party Astronauts,16,ChocoCheck,14,Party Astronauts,Dust2
+189,2021-12-16 02:00,RBG,5,ChocoCheck,16,ChocoCheck,Nuke
+190,2022-01-02 23:40,ChocoCheck,16,RBG,14,ChocoCheck,Inferno
+191,2021-12-15 02:00,ChocoCheck,8,TeamOne,16,TeamOne,Overpass
+192,2021-12-15 02:00,ChocoCheck,16,TeamOne,6,ChocoCheck,Inferno
+193,2022-01-22 21:15,Villainous,16,ChocoCheck,8,Villainous,Mirage
+194,2022-01-16 20:10,CLG Red,16,Little Bocks,8,CLG Red,Overpass
+195,2022-01-30 20:00,CLG Red,16,Little Bocks,9,CLG Red,Overpass
+196,2022-01-20 12:00,ECSTATIC,22,Complexity,20,ECSTATIC,Inferno
+197,2022-01-28 15:00,G2,16,Complexity,12,G2,Nuke
+198,2022-01-19 16:00,Gambit,16,Complexity,19,Complexity,Vertigo
+199,2021-12-19 16:35,Conquer,16,Lemondogs,12,Conquer,Mirage
+200,2021-12-16 19:00,BLINK,16,Copenhagen Flames,10,BLINK,Mirage
+201,2021-12-18 12:00,Copenhagen Flames,15,BLUEJAYS,19,BLUEJAYS,Mirage
+202,2021-12-18 12:00,Copenhagen Flames,19,BLUEJAYS,22,BLUEJAYS,Vertigo
+203,2022-02-01 09:00,Copenhagen Flames,16,Eternal Fire,6,Copenhagen Flames,Vertigo
+204,2022-01-25 19:15,Copenhagen Flames,12,forZe,16,forZe,Dust2
+205,2021-12-16 15:00,K23,16,Copenhagen Flames,9,K23,Mirage
+206,2022-02-02 12:00,Copenhagen Flames,9,K23,16,K23,Ancient
+207,2021-12-17 12:00,Copenhagen Flames,16,Nemiga,9,Copenhagen Flames,Inferno
+208,2021-12-17 12:00,Copenhagen Flames,16,Nemiga,11,Copenhagen Flames,Nuke
+209,2021-12-15 19:00,Copenhagen Flames,16,SINNERS,12,Copenhagen Flames,Vertigo
+210,2022-01-23 14:00,Young Ninjas,4,Copenhagen Flames,16,Copenhagen Flames,Mirage
+211,2022-01-18 16:00,PACT,16,cowana,19,cowana,Dust2
+212,2022-01-18 16:00,PACT,16,cowana,14,PACT,Ancient
+213,2022-01-30 20:00,Liberty fe,16,Cruzeiro fe,7,Liberty fe,Ancient
+214,2022-01-16 00:40,cs,14,RBG,16,RBG,Nuke
+215,2022-01-22 13:10,1shot,16,D13,10,1shot,Mirage
+216,2022-01-18 10:00,ECLOT,13,D13,16,D13,Mirage
+217,2022-01-16 19:15,DBL PONEY,12,1shot,16,1shot,Nuke
+218,2022-01-16 19:15,DBL PONEY,10,1shot,16,1shot,Dust2
+219,2022-01-16 16:00,DBL PONEY,16,FPSBUG,3,DBL PONEY,Dust2
+220,2021-12-15 02:00,Big Chillin,6,Detonate,16,Detonate,Dust2
+221,2021-12-17 03:00,Brazen,13,Detonate,16,Detonate,Ancient
+222,2021-12-18 02:00,Strife,16,Detonate,8,Strife,Nuke
+223,2021-12-20 03:30,Detonate,5,Valors,16,Valors,Overpass
+224,2021-12-16 03:30,Detonate,16,X13,12,Detonate,Overpass
+225,2022-01-18 15:00,Dignitas,19,777,15,Dignitas,Overpass
+226,2022-01-18 15:00,Dignitas,19,777,15,Dignitas,Overpass
+227,2022-01-25 13:20,BIG Academy,11,Dignitas,16,Dignitas,Vertigo
+228,2022-01-31 09:50,Dignitas,16,BLINK,11,Dignitas,Vertigo
+229,2022-01-31 09:50,Dignitas,12,BLINK,16,BLINK,Mirage
+230,2022-01-31 09:50,Dignitas,16,BLINK,7,Dignitas,Inferno
+231,2021-12-16 12:00,Dignitas,16,BLUEJAYS,13,Dignitas,Mirage
+232,2021-12-19 12:00,Dignitas,13,BLUEJAYS,16,BLUEJAYS,Mirage
+233,2022-01-31 15:00,Dignitas,12,Eternal Fire,16,Eternal Fire,Mirage
+234,2022-01-31 15:00,Dignitas,3,Eternal Fire,16,Eternal Fire,Inferno
+235,2022-02-01 18:00,Dignitas,16,HAVU,19,HAVU,Mirage
+236,2021-12-18 16:35,Dignitas,7,K23,16,K23,Mirage
+237,2022-01-24 18:20,Dignitas,13,SAW,16,SAW,Ancient
+238,2022-01-26 15:40,Sprout,16,Dignitas,14,Sprout,Ancient
+239,2022-01-26 18:10,Dignitas,16,Tricked,7,Dignitas,Nuke
+240,2022-01-25 18:00,Dignitas,16,Unique,14,Dignitas,Overpass
+241,2022-01-20 02:00,ChocoCheck,16,Disconnected,8,ChocoCheck,Inferno
+242,2022-01-27 02:00,Party Astronauts,16,Disconnected,8,Party Astronauts,Overpass
+243,2021-12-26 17:05,DNG,16,INDE IRAE,4,DNG,Inferno
+244,2022-01-08 15:10,Doge Soldiers,16,Sestri,7,Doge Soldiers,Nuke
+245,2022-01-08 15:10,Doge Soldiers,16,Sestri,10,Doge Soldiers,Inferno
+246,2021-12-19 14:35,UNGENTIUM,16,Dr. Pepper,8,UNGENTIUM,Inferno
+247,2021-12-19 14:00,KappaB,16,DREAM,11,KappaB,Mirage
+248,2022-01-08 11:10,EC Brugge,10,GameAgents,16,GameAgents,Inferno
+249,2022-01-19 19:25,EC Brugge,16,Into the Breach,8,EC Brugge,Ancient
+250,2022-01-19 15:00,Apeks,16,EC Kyiv,9,Apeks,Overpass
+251,2022-01-08 18:05,EC Kyiv,25,B8,23,EC Kyiv,Dust2
+252,2022-01-08 18:05,EC Kyiv,9,B8,16,B8,Vertigo
+253,2022-01-15 12:10,Doge Soldiers,10,EC Kyiv,16,EC Kyiv,Inferno
+254,2022-01-15 12:10,Doge Soldiers,12,EC Kyiv,16,EC Kyiv,Mirage
+255,2022-01-17 09:00,Finest,16,EC Kyiv,9,Finest,Overpass
+256,2022-01-17 09:00,Finest,8,EC Kyiv,16,EC Kyiv,Ancient
+257,2022-01-21 15:00,GamerLegion,16,EC Kyiv,9,GamerLegion,Overpass
+258,2022-01-16 12:05,EC Kyiv,7,Run or Die,16,Run or Die,Mirage
+259,2022-01-18 15:00,EC Kyiv,14,SAW,16,SAW,Vertigo
+260,2022-01-18 15:00,EC Kyiv,8,SAW,16,SAW,Ancient
+261,2022-01-09 18:10,Sestri,14,EC Kyiv,16,EC Kyiv,Mirage
+262,2022-01-09 18:10,Sestri,3,EC Kyiv,16,EC Kyiv,Inferno
+263,2022-01-20 12:00,Wisla Krakow,11,EC Kyiv,16,EC Kyiv,Overpass
+264,2022-01-18 10:00,ECLOT,16,D13,19,D13,Ancient
+265,2022-01-27 18:00,ECSTATIC,16,AGF,13,ECSTATIC,Nuke
+266,2022-01-20 12:00,ECSTATIC,16,Complexity,10,ECSTATIC,Nuke
+267,2022-01-18 18:00,ECSTATIC,16,Enterprise,4,ECSTATIC,Inferno
+268,2022-01-23 12:00,ECSTATIC,11,Entropiq,16,Entropiq,Overpass
+269,2022-01-18 12:00,Entropiq,16,ECSTATIC,5,Entropiq,Mirage
+270,2022-01-23 12:00,ECSTATIC,17,Entropiq,19,Entropiq,Ancient
+271,2022-01-25 10:00,K23,11,ECSTATIC,16,ECSTATIC,Ancient
+272,2022-01-22 12:00,ECSTATIC,16,K23,14,ECSTATIC,Ancient
+273,2022-01-25 10:00,K23,16,ECSTATIC,6,K23,Nuke
+274,2021-12-15 12:00,ECSTATIC,15,Nemiga,19,Nemiga,Nuke
+275,2022-01-23 19:00,Nexus,11,ECSTATIC,16,ECSTATIC,Dust2
+276,2022-01-13 02:00,Redragon,16,ELEVATE,7,Redragon,Dust2
+277,2022-01-15 01:30,ELEVATE,17,Stars Horizon,19,Stars Horizon,Nuke
+278,2022-01-15 23:00,ELEVATE,6,SWS,16,SWS,Inferno
+279,2022-01-24 18:00,1WIN,16,Endpoint,8,1WIN,Dust2
+280,2022-01-24 18:00,1WIN,11,Endpoint,16,Endpoint,Vertigo
+281,2022-01-26 18:00,Apeks,6,Endpoint,16,Endpoint,Nuke
+282,2022-01-31 12:00,Apeks,16,Endpoint,12,Apeks,Ancient
+283,2022-01-19 18:40,Endpoint,16,GMT,3,Endpoint,Ancient
+284,2022-01-25 15:10,K23,9,Endpoint,16,Endpoint,Ancient
+285,2022-01-28 12:00,SKADE,22,Endpoint,20,SKADE,Inferno
+286,2022-01-27 15:25,Endpoint,16,Sprout,10,Endpoint,Inferno
+287,2022-01-18 18:30,Endpoint,16,Unique,9,Endpoint,Dust2
+288,2022-01-17 20:35,Wisla Krakow,2,Endpoint,16,Endpoint,Mirage
+289,2022-01-31 15:00,777,10,Enterprise,16,Enterprise,Vertigo
+290,2022-01-17 16:50,Enterprise,11,777,16,777,Ancient
+291,2022-01-17 16:50,Enterprise,14,777,16,777,Vertigo
+292,2022-01-31 15:00,777,16,Enterprise,13,777,Ancient
+293,2022-01-30 20:00,AVANGAR,16,Enterprise,14,AVANGAR,Mirage
+294,2022-01-30 20:00,AVANGAR,16,Enterprise,9,AVANGAR,Vertigo
+295,2022-01-18 18:00,ECSTATIC,8,Enterprise,16,Enterprise,Ancient
+296,2022-01-18 18:00,ECSTATIC,16,Enterprise,4,ECSTATIC,Dust2
+297,2022-01-27 12:00,Entropiq,16,Enterprise,8,Entropiq,Mirage
+298,2022-01-27 15:00,Enterprise,12,Finest,16,Finest,Ancient
+299,2022-01-20 09:00,Finest,9,Enterprise,16,Enterprise,Inferno
+300,2022-01-27 15:00,Enterprise,10,Finest,16,Finest,Overpass
+301,2022-01-19 12:00,Enterprise,10,GamerLegion,16,GamerLegion,Mirage
+302,2022-01-17 12:55,Enterprise,14,GMT,16,GMT,Vertigo
+303,2022-02-01 13:20,HEET,16,Enterprise,2,HEET,Vertigo
+304,2022-01-30 16:45,Enterprise,16,NLG,6,Enterprise,Mirage
+305,2022-01-30 16:45,Enterprise,16,NLG,6,Enterprise,Overpass
+306,2022-01-18 09:00,Enterprise,22,OneTap,18,Enterprise,Mirage
+307,2022-01-21 16:05,B8,7,Entropiq Prague,16,Entropiq Prague,Nuke
+308,2022-01-18 19:30,Entropiq Prague,16,ex-Feenix,10,Entropiq Prague,Vertigo
+309,2022-01-24 16:45,Entropiq Prague,8,forZe,16,forZe,Mirage
+310,2021-12-16 19:00,1WIN,16,Entropiq,13,1WIN,Nuke
+311,2022-01-17 18:00,Entropiq,13,AGF,16,AGF,Vertigo
+312,2022-01-22 15:00,Astralis,8,Entropiq,16,Entropiq,Nuke
+313,2022-01-22 15:00,Astralis,13,Entropiq,16,Entropiq,Overpass
+314,2022-01-24 12:00,Entropiq,13,BIG,16,BIG,Dust2
+315,2021-12-17 19:00,Entropiq,19,BLINK,16,Entropiq,Nuke
+316,2021-12-17 15:15,BLUEJAYS,16,Entropiq,10,BLUEJAYS,Mirage
+317,2022-01-18 12:00,Entropiq,22,ECSTATIC,18,Entropiq,Vertigo
+318,2022-01-23 12:00,ECSTATIC,16,Entropiq,6,ECSTATIC,Vertigo
+319,2022-01-27 12:00,Entropiq,16,Enterprise,5,Entropiq,Ancient
+320,2021-12-15 19:00,Entropiq,16,Finest,11,Entropiq,Overpass
+321,2022-02-02 15:00,Entropiq,16,Finest,9,Entropiq,Dust2
+322,2022-01-24 17:30,Gambit,16,Entropiq,7,Gambit,Mirage
+323,2022-01-21 12:00,Entropiq,16,Gambit,14,Entropiq,Mirage
+324,2022-01-21 12:00,Entropiq,5,Gambit,16,Gambit,Dust2
+325,2022-01-24 17:30,Gambit,16,Entropiq,12,Gambit,Dust2
+326,2021-12-18 19:00,GamerLegion,13,Entropiq,16,Entropiq,Overpass
+327,2022-01-25 19:00,Entropiq,16,Into the Breach,13,Entropiq,Ancient
+328,2022-01-26 19:00,Entropiq,16,Nemiga,9,Entropiq,Vertigo
+329,2021-12-19 19:00,Sprout,16,Entropiq,14,Sprout,Vertigo
+330,2021-12-15 15:00,Entropiq,13,TTC,16,TTC,Overpass
+331,2022-01-16 19:00,equipa,16,4750mix,10,equipa,Vertigo
+332,2022-01-22 20:10,Eros,16,ChocoCheck,10,Eros,Mirage
+333,2022-01-22 21:15,Party Astronauts,16,Eros,9,Party Astronauts,Nuke
+334,2022-01-22 22:10,Eros,12,Villainous,16,Villainous,Dust2
+335,2022-01-19 11:50,BIG Academy,16,eSuba,14,BIG Academy,Vertigo
+336,2022-01-17 10:50,BIG Academy,16,eSuba,9,BIG Academy,Vertigo
+337,2022-01-17 10:50,BIG Academy,16,eSuba,12,BIG Academy,Inferno
+338,2022-01-19 11:50,BIG Academy,16,eSuba,13,BIG Academy,Nuke
+339,2022-01-18 12:00,Finest,16,eSuba,12,Finest,Overpass
+340,2022-01-18 16:40,eSuba,16,OFFSET,11,eSuba,Inferno
+341,2022-01-18 16:40,eSuba,16,OFFSET,4,eSuba,Overpass
+342,2022-01-19 09:00,OneTap,16,eSuba,13,OneTap,Mirage
+343,2022-01-17 15:00,SAW,16,eSuba,10,SAW,Ancient
+344,2022-01-08 17:00,FURIA Academy,16,Eternal Fire Academy,13,FURIA Academy,Mirage
+345,2022-01-04 18:15,MOUZ NXT,16,Eternal Fire Academy,12,MOUZ NXT,Mirage
+346,2022-01-12 18:10,Eternal Fire Academy,12,Spirit Academy,16,Spirit Academy,Nuke
+347,2022-01-15 19:35,Eternal Fire Academy,2,VP.Prodigy,16,VP.Prodigy,Ancient
+348,2022-01-10 19:05,VP.Prodigy,8,Eternal Fire Academy,16,Eternal Fire Academy,Vertigo
+349,2022-01-15 19:35,Eternal Fire Academy,5,VP.Prodigy,16,VP.Prodigy,Vertigo
+350,2022-01-27 09:00,Eternal Fire,16,1WIN,12,Eternal Fire,Overpass
+351,2022-01-27 09:00,Eternal Fire,16,1WIN,11,Eternal Fire,Mirage
+352,2022-01-26 09:00,Eternal Fire,16,BLINK,7,Eternal Fire,Inferno
+353,2022-01-26 09:00,Eternal Fire,16,BLINK,8,Eternal Fire,Dust2
+354,2022-02-01 09:00,Copenhagen Flames,5,Eternal Fire,16,Eternal Fire,Nuke
+355,2022-02-01 09:00,Copenhagen Flames,16,Eternal Fire,9,Copenhagen Flames,Inferno
+356,2022-01-31 15:00,Dignitas,16,Eternal Fire,12,Dignitas,Ancient
+357,2022-01-25 12:00,Eternal Fire,12,GamerLegion,16,GamerLegion,Overpass
+358,2022-01-26 18:15,Eternal Fire,16,LookingForOrg,12,Eternal Fire,Inferno
+359,2022-01-19 15:00,Eternal Fire,16,Lynn Vision,9,Eternal Fire,Inferno
+360,2022-01-28 09:00,Eternal Fire,16,Tricked,8,Eternal Fire,Overpass
+361,2022-01-24 15:00,Eternal Fire,12,Unique,16,Unique,Overpass
+362,2022-01-19 13:35,ex-Coalesce,16,Apeks Rebels,11,ex-Coalesce,Mirage
+363,2022-01-21 19:00,AVE,16,ex-Coalesce,13,AVE,Inferno
+364,2022-01-18 19:30,Entropiq Prague,16,ex-Feenix,12,Entropiq Prague,Inferno
+365,2022-01-08 20:00,FTW,16,Exalty,1,FTW,Ancient
+366,2022-01-08 14:10,Exalty,7,Infinite,16,Infinite,Mirage
+367,2022-01-07 13:10,EC Brugge,13,eXploit,16,eXploit,Vertigo
+368,2022-01-09 13:10,eXploit,16,FTW,9,eXploit,Vertigo
+369,2021-12-15 02:00,Bad News Bears,9,Extra Salt,16,Extra Salt,Nuke
+370,2021-12-17 02:00,ChocoCheck,13,Extra Salt,16,Extra Salt,Inferno
+371,2021-12-16 02:00,Party Astronauts,16,Extra Salt,12,Party Astronauts,Inferno
+372,2021-12-16 02:00,Party Astronauts,11,Extra Salt,16,Extra Salt,Nuke
+373,2022-01-30 21:15,FaZe,19,Liquid,17,FaZe,Inferno
+374,2022-01-30 17:45,Vitality,19,FaZe,15,Vitality,Inferno
+375,2022-01-30 23:10,Vitality,10,FaZe,16,FaZe,Overpass
+376,2022-01-24 15:00,777,17,Finest,19,Finest,Dust2
+377,2022-01-17 09:00,Finest,20,EC Kyiv,22,EC Kyiv,Inferno
+378,2022-01-20 09:00,Finest,16,Enterprise,11,Finest,Vertigo
+379,2022-01-20 09:00,Finest,16,Enterprise,10,Finest,Overpass
+380,2021-12-15 19:00,Entropiq,16,Finest,12,Entropiq,Ancient
+381,2022-02-02 15:00,Entropiq,16,Finest,14,Entropiq,Ancient
+382,2022-01-18 12:00,Finest,16,eSuba,6,Finest,Ancient
+383,2022-01-31 13:20,Finest,13,forZe,16,forZe,Inferno
+384,2022-01-17 15:00,Sprout,16,Finest,8,Sprout,Vertigo
+385,2022-01-21 09:00,Tricked,16,Finest,9,Tricked,Vertigo
+386,2022-01-21 09:00,Tricked,16,Finest,12,Tricked,Overpass
+387,2022-01-19 12:00,Finest,14,Unique,16,Unique,Dust2
+388,2022-01-25 15:00,AGO,16,fnatic Rising,14,AGO,Vertigo
+389,2022-01-25 15:00,AGO,19,fnatic Rising,16,AGO,Mirage
+390,2022-01-14 16:00,Astralis Talent,16,fnatic Rising,14,Astralis Talent,Nuke
+391,2022-01-14 16:00,Astralis Talent,16,fnatic Rising,14,Astralis Talent,Overpass
+392,2022-01-11 17:00,fnatic Rising,19,BIG Academy,17,fnatic Rising,Inferno
+393,2022-01-19 18:00,BLINK,6,fnatic Rising,16,fnatic Rising,Mirage
+394,2022-01-31 18:15,Lynn Vision,7,fnatic Rising,16,fnatic Rising,Inferno
+395,2022-01-07 21:25,NAVI Junior,16,fnatic Rising,14,NAVI Junior,Vertigo
+396,2022-01-05 18:10,Young Ninjas,3,fnatic Rising,16,fnatic Rising,Vertigo
+397,2022-02-01 15:55,fnatic,13,Apeks,16,Apeks,Mirage
+398,2022-01-20 15:00,Astralis,13,fnatic,16,fnatic,Nuke
+399,2022-01-19 12:00,fnatic,19,BIG,17,fnatic,Mirage
+400,2022-01-29 09:50,forZe,16,BLUEJAYS,4,forZe,Inferno
+401,2022-01-25 19:15,Copenhagen Flames,10,forZe,16,forZe,Overpass
+402,2022-01-24 16:45,Entropiq Prague,11,forZe,16,forZe,Inferno
+403,2022-01-31 13:20,Finest,4,forZe,16,forZe,Overpass
+404,2022-01-26 13:00,HEET,16,forZe,7,HEET,Dust2
+405,2022-01-23 16:30,Fourth Quarter,9,Kinship Black,16,Kinship Black,Mirage
+406,2022-01-23 16:30,Fourth Quarter,9,Kinship Black,16,Kinship Black,Ancient
+407,2022-01-16 16:00,DBL PONEY,13,FPSBUG,16,FPSBUG,Nuke
+408,2022-01-16 16:00,DBL PONEY,16,FPSBUG,9,DBL PONEY,Vertigo
+409,2022-01-23 20:20,all aim no name,16,Fragging for Jason,8,all aim no name,Nuke
+410,2022-01-23 16:30,Omega,16,Fragging for Jason,13,Omega,Vertigo
+411,2022-01-23 16:30,Omega,8,Fragging for Jason,16,Fragging for Jason,Ancient
+412,2022-01-09 20:40,FTW,16,Ambush,11,FTW,Inferno
+413,2022-01-08 20:00,FTW,16,Exalty,8,FTW,Inferno
+414,2022-01-09 13:10,eXploit,12,FTW,16,FTW,Dust2
+415,2022-01-09 13:10,eXploit,17,FTW,19,FTW,Ancient
+416,2022-01-07 17:40,FTW,16,Infinite,8,FTW,Inferno
+417,2022-01-20 21:25,Wisla Krakow,16,FTW,8,Wisla Krakow,Overpass
+418,2022-01-08 18:10,Eternal Fire Academy,16,FURIA Academy,12,Eternal Fire Academy,Inferno
+419,2022-01-06 19:20,MOUZ NXT,16,FURIA Academy,12,MOUZ NXT,Mirage
+420,2022-01-10 18:00,Spirit Academy,16,FURIA Academy,8,Spirit Academy,Vertigo
+421,2022-01-04 19:30,VP.Prodigy,16,FURIA Academy,9,VP.Prodigy,Overpass
+422,2022-01-14 19:30,FURIA Academy,6,VP.Prodigy,16,VP.Prodigy,Vertigo
+423,2022-02-01 18:25,FURIA,6,Wisla Krakow,16,Wisla Krakow,Nuke
+424,2021-12-17 16:30,Natus Vincere,16,G2,14,Natus Vincere,Nuke
+425,2021-12-15 13:30,G2,16,NIP,14,G2,Inferno
+426,2021-12-15 13:30,G2,11,NIP,16,NIP,Nuke
+427,2022-01-28 18:00,G2,16,NIP,6,G2,Inferno
+428,2021-12-16 21:45,G2,10,Vitality,16,Vitality,Nuke
+429,2021-12-19 18:00,GAIJIN,16,mYinsanity,8,GAIJIN,Nuke
+430,2022-01-30 19:40,Galaxy Racer fe,16,4750mix,2,Galaxy Racer fe,Mirage
+431,2022-01-23 15:50,Gambit,16,BIG,10,Gambit,Dust2
+432,2022-01-19 16:00,Gambit,16,Complexity,11,Gambit,Ancient
+433,2022-01-19 16:00,Gambit,16,Complexity,8,Gambit,Dust2
+434,2022-01-21 12:00,Entropiq,6,Gambit,16,Gambit,Overpass
+435,2021-12-16 17:35,Liquid,14,Gambit,16,Gambit,Inferno
+436,2021-12-16 17:35,Liquid,2,Gambit,16,Gambit,Overpass
+437,2021-12-19 18:30,Gambit,16,Natus Vincere,11,Gambit,Mirage
+438,2021-12-18 16:30,Gambit,19,Vitality,17,Gambit,Dust2
+439,2022-01-09 16:35,Ambush,16,GameAgents,10,Ambush,Inferno
+440,2022-01-09 16:35,Ambush,16,GameAgents,14,Ambush,Vertigo
+441,2022-01-08 11:10,EC Brugge,9,GameAgents,16,GameAgents,Nuke
+442,2022-01-08 17:20,VELOX,12,GameAgents,16,GameAgents,Ancient
+443,2021-12-15 19:00,GamerLegion,16,1WIN,9,GamerLegion,Vertigo
+444,2022-01-17 16:50,GamerLegion,19,Apeks,17,GamerLegion,Ancient
+445,2022-01-17 16:50,GamerLegion,16,Apeks,14,GamerLegion,Mirage
+446,2022-01-21 15:00,GamerLegion,6,EC Kyiv,16,EC Kyiv,Inferno
+447,2022-01-21 15:00,GamerLegion,19,EC Kyiv,16,GamerLegion,Ancient
+448,2022-01-19 12:00,Enterprise,6,GamerLegion,16,GamerLegion,Inferno
+449,2021-12-18 19:00,GamerLegion,17,Entropiq,19,Entropiq,Ancient
+450,2022-01-25 12:00,Eternal Fire,14,GamerLegion,16,GamerLegion,Vertigo
+451,2022-01-24 09:00,K23,16,GamerLegion,6,K23,Mirage
+452,2022-01-18 18:00,Savage,25,GamerLegion,22,Savage,Inferno
+453,2022-01-27 09:00,SKADE,17,GamerLegion,19,GamerLegion,Inferno
+454,2022-01-24 13:35,GamerLegion,17,SKADE,19,SKADE,Ancient
+455,2022-01-27 09:00,SKADE,16,GamerLegion,7,SKADE,Ancient
+456,2021-12-16 19:00,Sprout,19,GamerLegion,17,Sprout,Inferno
+457,2022-02-02 09:50,GamerLegion,13,Sprout,16,Sprout,Overpass
+458,2022-01-20 15:00,GamerLegion,11,Unique,16,Unique,Inferno
+459,2022-01-26 15:35,Wisla Krakow,16,GamerLegion,8,Wisla Krakow,Nuke
+460,2022-01-21 12:20,Apeks,16,GMT,9,Apeks,Mirage
+461,2022-01-19 18:40,Endpoint,16,GMT,13,Endpoint,Vertigo
+462,2022-01-17 12:55,Enterprise,16,GMT,13,Enterprise,Inferno
+463,2022-01-17 12:55,Enterprise,22,GMT,25,GMT,Ancient
+464,2022-01-20 15:15,Savage,16,GMT,12,Savage,Dust2
+465,2022-01-18 15:00,Tricked,16,GMT,7,Tricked,Nuke
+466,2022-01-18 15:00,Tricked,16,GMT,7,Tricked,Nuke
+467,2022-01-20 10:00,GMT,16,UNGENTIUM,14,GMT,Inferno
+468,2021-12-19 19:10,Goliath,16,Bravado,12,Goliath,Nuke
+469,2021-12-25 15:00,B8,16,GUESS,4,B8,Nuke
+470,2022-02-01 18:00,Dignitas,16,HAVU,14,Dignitas,Nuke
+471,2022-02-01 18:00,Dignitas,16,HAVU,14,Dignitas,Inferno
+472,2022-01-20 16:00,LookingForOrg,16,HAVU,14,LookingForOrg,Inferno
+473,2022-01-25 19:30,HAVU,9,Lynn Vision,16,Lynn Vision,Inferno
+474,2021-12-15 10:00,LookingForOrg,16,Hazard,6,LookingForOrg,Vertigo
+475,2021-12-15 10:00,LookingForOrg,16,Hazard,1,LookingForOrg,Overpass
+476,2021-12-16 10:30,Hazard,20,Overt,22,Overt,Ancient
+477,2021-12-16 10:30,Hazard,12,Overt,16,Overt,Overpass
+478,2022-01-25 13:15,HEET,16,1WIN,10,HEET,Nuke
+479,2022-01-24 13:00,AVE,25,HEET,28,HEET,Inferno
+480,2022-02-01 13:20,HEET,13,Enterprise,16,Enterprise,Overpass
+481,2022-02-01 13:20,HEET,16,Enterprise,11,HEET,Inferno
+482,2022-01-26 13:00,HEET,8,forZe,16,forZe,Nuke
+483,2022-01-26 13:00,HEET,19,forZe,15,HEET,Inferno
+484,2022-01-27 16:00,HEET,19,K23,17,HEET,Nuke
+485,2022-01-17 20:00,HellRaisers,9,LPSP,16,LPSP,Nuke
+486,2022-02-01 12:00,Heroic,16,K23,12,Heroic,Mirage
+487,2021-12-15 19:45,Natus Vincere,19,Heroic,15,Natus Vincere,Nuke
+488,2021-12-25 14:30,hxh,13,Unique,16,Unique,Mirage
+489,2021-12-26 18:00,B8,16,IKIGAI,6,B8,Nuke
+490,2021-12-25 18:00,okura,19,IKIGAI,17,okura,Nuke
+491,2022-01-23 17:30,InControl,5,Alex Rider,16,Alex Rider,Mirage
+492,2022-01-24 01:10,all aim no name,19,InControl,15,all aim no name,Nuke
+493,2022-01-23 22:15,Kinship Black,2,InControl,16,InControl,Mirage
+494,2022-01-16 00:10,Party Astronauts,16,InControl,11,Party Astronauts,Nuke
+495,2021-12-26 17:05,DNG,16,INDE IRAE,10,DNG,Mirage
+496,2021-12-26 17:05,DNG,8,INDE IRAE,16,INDE IRAE,Overpass
+497,2021-12-26 17:05,DNG,13,INDE IRAE,16,INDE IRAE,Vertigo
+498,2021-12-26 17:05,DNG,16,INDE IRAE,13,DNG,Nuke
+499,2022-01-08 14:10,Exalty,16,Infinite,10,Exalty,Inferno
+500,2022-01-08 14:10,Exalty,19,Infinite,16,Exalty,Ancient
+501,2021-12-17 19:00,Into the Breach,16,1shot,14,Into the Breach,Mirage
+502,2021-12-17 19:00,Into the Breach,13,1shot,16,1shot,Inferno
+503,2022-01-26 19:00,1WIN,7,Into the Breach,16,Into the Breach,Nuke
+504,2022-01-26 19:00,1WIN,16,Into the Breach,9,1WIN,Overpass
+505,2022-01-19 15:20,Into the Breach,8,BIG Academy,16,BIG Academy,Inferno
+506,2022-01-18 13:10,BIG Academy,9,Into the Breach,16,Into the Breach,Ancient
+507,2022-01-18 13:10,BIG Academy,14,Into the Breach,16,Into the Breach,Inferno
+508,2022-01-19 15:20,Into the Breach,13,BIG Academy,16,BIG Academy,Nuke
+509,2022-01-19 19:25,EC Brugge,11,Into the Breach,16,Into the Breach,Mirage
+510,2022-01-19 19:25,EC Brugge,10,Into the Breach,16,Into the Breach,Dust2
+511,2022-01-25 19:00,Entropiq,16,Into the Breach,7,Entropiq,Overpass
+512,2021-12-19 15:00,LDLC,10,Into the Breach,16,Into the Breach,Inferno
+513,2021-12-16 18:00,Into the Breach,16,Linx Legacy,14,Into the Breach,Inferno
+514,2022-01-21 10:00,Nexus,16,Into the Breach,12,Nexus,Dust2
+515,2022-01-17 14:30,Into the Breach,16,OFFSET,13,Into the Breach,Ancient
+516,2021-12-18 19:00,PACT,9,Into the Breach,16,Into the Breach,Dust2
+517,2021-12-19 20:00,SAW,16,Into the Breach,8,SAW,Dust2
+518,2021-12-19 20:00,SAW,16,Into the Breach,10,SAW,Nuke
+519,2022-01-18 15:00,Astralis,16,K23,8,Astralis,Inferno
+520,2022-01-18 15:00,Astralis,16,K23,19,K23,Overpass
+521,2022-01-21 15:25,K23,6,BIG,16,BIG,Dust2
+522,2021-12-19 15:30,K23,16,BLUEJAYS,8,K23,Inferno
+523,2021-12-16 15:00,K23,16,Copenhagen Flames,6,K23,Nuke
+524,2022-02-02 12:00,Copenhagen Flames,13,K23,16,K23,Inferno
+525,2021-12-18 16:35,Dignitas,16,K23,10,Dignitas,Nuke
+526,2021-12-18 16:35,Dignitas,11,K23,16,K23,Ancient
+527,2022-01-22 12:00,ECSTATIC,16,K23,6,ECSTATIC,Inferno
+528,2022-01-25 10:00,K23,16,ECSTATIC,14,K23,Inferno
+529,2022-01-25 15:10,K23,9,Endpoint,16,Endpoint,Mirage
+530,2022-01-24 09:00,K23,16,GamerLegion,13,K23,Overpass
+531,2022-01-27 16:00,HEET,19,K23,16,HEET,Inferno
+532,2022-02-01 12:00,Heroic,14,K23,16,K23,Nuke
+533,2022-02-01 12:00,Heroic,14,K23,16,K23,Overpass
+534,2022-01-27 13:05,MOUZ NXT,9,K23,16,K23,Mirage
+535,2022-01-26 16:25,SINNERS,8,K23,16,K23,Inferno
+536,2022-01-26 16:25,SINNERS,16,K23,14,SINNERS,Nuke
+537,2022-01-26 16:25,SINNERS,11,K23,16,K23,Mirage
+538,2022-01-26 12:00,SKADE,16,K23,11,SKADE,Inferno
+539,2022-01-26 12:00,SKADE,16,K23,19,K23,Dust2
+540,2022-01-31 09:00,Sprout,1,K23,16,K23,Ancient
+541,2022-01-23 16:00,UNGENTIUM,3,K23,16,K23,Inferno
+542,2021-12-19 14:00,KappaB,7,DREAM,16,DREAM,Inferno
+543,2021-12-19 14:00,KappaB,15,DREAM,19,DREAM,Overpass
+544,2022-01-23 16:30,Fourth Quarter,16,Kinship Black,12,Fourth Quarter,Vertigo
+545,2022-01-23 22:15,Kinship Black,16,InControl,13,Kinship Black,Inferno
+546,2022-01-23 22:15,Kinship Black,14,InControl,16,InControl,Dust2
+547,2021-12-15 02:30,Kinship,9,Brazen,16,Brazen,Overpass
+548,2022-01-20 13:35,KOVA,14,4glory,16,4glory,Inferno
+549,2022-01-21 13:00,UNGENTIUM,16,KOVA,6,UNGENTIUM,Mirage
+550,2021-12-19 15:00,LDLC,12,Into the Breach,16,Into the Breach,Ancient
+551,2021-12-18 16:00,Nemiga,16,LDLC,12,Nemiga,Mirage
+552,2021-12-16 16:15,LDLC,16,PACT,5,LDLC,Vertigo
+553,2021-12-17 19:00,LDLC,5,SAW,16,SAW,Ancient
+554,2021-12-19 16:35,Conquer,16,Lemondogs,11,Conquer,Nuke
+555,2022-01-30 20:00,Liberty fe,16,Cruzeiro fe,8,Liberty fe,Vertigo
+556,2022-01-16 20:20,MIBR fe,13,Liberty fe,16,Liberty fe,Vertigo
+557,2021-12-18 21:20,Liberty,2,MIBR,16,MIBR,Ancient
+558,2021-12-17 21:20,Liberty,20,SWS,22,SWS,Nuke
+559,2021-12-16 18:00,Into the Breach,16,Linx Legacy,11,Into the Breach,Ancient
+560,2021-12-17 16:00,Linx Legacy,14,Nemiga,16,Nemiga,Mirage
+561,2021-12-15 18:00,SKADE,16,Linx Legacy,14,SKADE,Inferno
+562,2021-12-17 21:00,Astralis,9,Liquid,16,Liquid,Dust2
+563,2022-01-30 19:20,Evil Geniuses,17,Liquid,19,Liquid,Inferno
+564,2022-01-30 16:00,FaZe,19,Liquid,15,FaZe,Inferno
+565,2021-12-16 17:35,Liquid,16,Gambit,13,Liquid,Vertigo
+566,2021-12-18 19:35,Natus Vincere,16,Liquid,10,Natus Vincere,Dust2
+567,2022-01-16 20:10,CLG Red,16,Little Bocks,6,CLG Red,Vertigo
+568,2022-01-30 20:00,CLG Red,16,Little Bocks,8,CLG Red,Mirage
+569,2022-01-26 18:15,Eternal Fire,16,LookingForOrg,3,Eternal Fire,Vertigo
+570,2022-01-20 16:00,LookingForOrg,16,HAVU,3,LookingForOrg,Overpass
+571,2022-01-19 09:00,LookingForOrg,16,MASONIC,13,LookingForOrg,Ancient
+572,2021-12-20 08:00,ORDER,10,LookingForOrg,16,LookingForOrg,Dust2
+573,2021-12-18 10:00,Paradox,9,LookingForOrg,16,LookingForOrg,Inferno
+574,2022-01-20 09:00,Tricked,16,LookingForOrg,10,Tricked,Nuke
+575,2022-01-17 18:00,Unique,16,LookingForOrg,9,Unique,Dust2
+576,2021-12-16 08:00,LookingForOrg,16,VERTEX,7,LookingForOrg,Inferno
+577,2022-01-18 12:00,LookingForOrg,10,Wisla Krakow,16,Wisla Krakow,Overpass
+578,2022-01-24 10:00,Los Reyes,9,1WIN,16,1WIN,Nuke
+579,2022-01-22 16:00,Los Reyes,16,PACT,14,Los Reyes,Nuke
+580,2022-01-17 13:00,Unique,12,Los Reyes,16,Los Reyes,Overpass
+581,2022-01-17 20:00,HellRaisers,16,LPSP,10,HellRaisers,Mirage
+582,2022-01-17 20:00,HellRaisers,11,LPSP,16,LPSP,Inferno
+583,2022-01-22 10:00,LPSP,9,Young Ninjas,16,Young Ninjas,Overpass
+584,2022-01-22 10:00,LPSP,7,Young Ninjas,16,Young Ninjas,Inferno
+585,2022-01-19 15:00,Eternal Fire,16,Lynn Vision,9,Eternal Fire,Dust2
+586,2022-01-31 18:15,Lynn Vision,12,fnatic Rising,16,fnatic Rising,Vertigo
+587,2022-01-25 19:30,HAVU,16,Lynn Vision,8,HAVU,Dust2
+588,2022-01-25 19:30,HAVU,16,Lynn Vision,12,HAVU,Ancient
+589,2022-01-18 09:00,Apeks,16,MASONIC,7,Apeks,Ancient
+590,2022-01-19 09:00,LookingForOrg,16,MASONIC,13,LookingForOrg,Nuke
+591,2022-01-17 12:00,Savage,16,MASONIC,2,Savage,Dust2
+592,2022-01-16 20:20,MIBR fe,14,Liberty fe,16,Liberty fe,Mirage
+593,2022-01-29 21:05,MIBR,9,Astralis,16,Astralis,Overpass
+594,2021-12-18 21:20,Liberty,11,MIBR,16,MIBR,Vertigo
+595,2021-12-18 01:55,MIBR,11,Sharks,16,Sharks,Inferno
+596,2021-12-21 23:20,Sharks,16,MIBR,8,Sharks,Inferno
+597,2021-12-19 23:20,MIBR,16,SWS,11,MIBR,Nuke
+598,2021-12-15 02:00,MIBR,16,X13,14,MIBR,Overpass
+599,2022-01-02 19:00,MongolZ,4,ChocoCheck,16,ChocoCheck,Vertigo
+600,2022-01-16 16:00,1shot,3,MONKE,16,MONKE,Mirage
+601,2022-01-16 16:00,1shot,16,MONKE,10,1shot,Inferno
+602,2021-12-19 13:30,Moon,5,Born in the East,16,Born in the East,Vertigo
+603,2022-01-04 17:00,Eternal Fire Academy,9,MOUZ NXT,16,MOUZ NXT,Inferno
+604,2022-01-06 20:30,FURIA Academy,5,MOUZ NXT,16,MOUZ NXT,Mirage
+605,2022-01-27 13:05,MOUZ NXT,17,K23,19,K23,Ancient
+606,2022-01-24 15:30,MOUZ NXT,12,Savage,16,Savage,Ancient
+607,2022-01-24 15:30,MOUZ NXT,16,Savage,8,MOUZ NXT,Dust2
+608,2022-01-28 15:25,MOUZ NXT,16,SAW,13,MOUZ NXT,Ancient
+609,2022-01-08 19:25,Spirit Academy,6,MOUZ NXT,16,MOUZ NXT,Mirage
+610,2022-01-25 18:30,MOUZ NXT,14,Tricked,16,Tricked,Nuke
+611,2022-01-25 18:30,MOUZ NXT,13,Tricked,16,Tricked,Vertigo
+612,2022-01-26 16:05,MOUZ NXT,16,Unique,7,MOUZ NXT,Dust2
+613,2022-01-12 19:20,MOUZ NXT,16,VP.Prodigy,12,MOUZ NXT,Vertigo
+614,2021-12-19 18:00,GAIJIN,16,mYinsanity,11,GAIJIN,Inferno
+615,2021-12-17 16:30,Natus Vincere,19,G2,22,G2,Inferno
+616,2021-12-17 16:30,Natus Vincere,16,G2,4,Natus Vincere,Mirage
+617,2021-12-19 18:30,Gambit,11,Natus Vincere,16,Natus Vincere,Ancient
+618,2021-12-19 18:30,Gambit,6,Natus Vincere,16,Natus Vincere,Inferno
+619,2021-12-15 19:45,Natus Vincere,16,Heroic,6,Natus Vincere,Mirage
+620,2021-12-18 19:35,Natus Vincere,16,Liquid,11,Natus Vincere,Inferno
+621,2022-01-29 15:00,Natus Vincere,12,MIBR,16,MIBR,Dust2
+622,2021-12-19 14:30,Vitality,5,Natus Vincere,16,Natus Vincere,Dust2
+623,2022-01-15 16:00,NAVI Junior,16,Astralis Talent,14,NAVI Junior,Overpass
+624,2022-01-05 20:25,Astralis Talent,16,NAVI Junior,13,Astralis Talent,Vertigo
+625,2022-01-15 16:00,NAVI Junior,8,Astralis Talent,16,Astralis Talent,Vertigo
+626,2022-01-03 19:25,BIG Academy,4,NAVI Junior,16,NAVI Junior,Inferno
+627,2022-01-07 19:25,fnatic Rising,23,NAVI Junior,25,NAVI Junior,Vertigo
+628,2022-01-11 19:50,NAVI Junior,11,Young Ninjas,16,Young Ninjas,Mirage
+629,2021-12-16 19:00,Nemiga,9,1shot,16,1shot,Mirage
+630,2022-01-25 19:00,1WIN,10,Nemiga,16,Nemiga,Mirage
+631,2022-01-25 19:00,1WIN,16,Nemiga,4,1WIN,Dust2
+632,2022-02-01 19:00,1WIN,16,Nemiga,8,1WIN,Dust2
+633,2021-12-17 12:00,Copenhagen Flames,0,Nemiga,16,Nemiga,Overpass
+634,2021-12-15 12:00,ECSTATIC,13,Nemiga,16,Nemiga,Dust2
+635,2022-01-26 19:00,Entropiq,16,Nemiga,8,Entropiq,Overpass
+636,2022-01-30 09:50,HEET,13,Nemiga,16,Nemiga,Nuke
+637,2022-01-30 09:50,HEET,1,Nemiga,16,Nemiga,Inferno
+638,2021-12-18 16:00,Nemiga,7,LDLC,16,LDLC,Inferno
+639,2021-12-18 16:00,Nemiga,6,LDLC,16,LDLC,Nuke
+640,2021-12-17 16:00,Linx Legacy,6,Nemiga,16,Nemiga,Inferno
+641,2022-01-19 16:00,Nemiga,16,PACT,3,Nemiga,Nuke
+642,2022-01-19 10:00,Nexus,19,Ambush,22,Ambush,Inferno
+643,2022-01-23 19:00,Nexus,7,ECSTATIC,16,ECSTATIC,Vertigo
+644,2022-01-21 10:00,Nexus,16,Into the Breach,10,Nexus,Ancient
+645,2021-12-16 13:30,NIP,16,Astralis,14,NIP,Mirage
+646,2021-12-16 13:30,NIP,16,Astralis,19,Astralis,Nuke
+647,2022-01-28 16:20,NIP,16,BIG,12,NIP,Overpass
+648,2021-12-15 13:30,G2,16,NIP,11,G2,Dust2
+649,2022-01-28 22:00,G2,22,NIP,19,G2,Mirage
+650,2021-12-18 08:00,NKT,10,Checkmate,16,Checkmate,Inferno
+651,2022-01-30 16:45,Enterprise,7,NLG,16,NLG,Ancient
+652,2021-12-16 02:30,Northern Forces,10,Third Impact,16,Third Impact,Mirage
+653,2021-12-16 02:30,Northern Forces,7,Third Impact,16,Third Impact,Overpass
+654,2021-12-17 02:00,Northern Forces,9,Valors,16,Valors,Overpass
+655,2021-12-15 10:30,Meinser,12,Nut-E,16,Nut-E,Dust2
+656,2021-12-15 10:30,Meinser,13,Nut-E,16,Nut-E,Mirage
+657,2022-01-18 13:00,OFFSET,4,B8,16,B8,Nuke
+658,2022-01-18 16:40,eSuba,2,OFFSET,16,OFFSET,Nuke
+659,2022-01-17 14:30,Into the Breach,16,OFFSET,11,Into the Breach,Inferno
+660,2022-01-29 16:45,Astralis,8,OG,16,OG,Ancient
+661,2022-01-29 22:35,OG,16,Astralis,8,OG,Inferno
+662,2022-01-29 18:05,MIBR,9,OG,16,OG,Ancient
+663,2022-01-09 15:10,okura,14,Doge Soldiers,16,Doge Soldiers,Mirage
+664,2022-01-09 15:10,okura,11,Doge Soldiers,16,Doge Soldiers,Nuke
+665,2021-12-25 18:00,okura,13,IKIGAI,16,IKIGAI,Ancient
+666,2021-12-25 18:00,okura,17,IKIGAI,19,IKIGAI,Mirage
+667,2022-01-23 16:30,Omega,11,Fragging for Jason,16,Fragging for Jason,Mirage
+668,2022-01-16 01:40,ONET4P,16,Big Chillin,4,ONET4P,Inferno
+669,2022-01-16 22:00,RBG,16,ONET4P,1,RBG,Vertigo
+670,2022-01-02 20:00,RBG,16,ONET4P,5,RBG,Nuke
+671,2022-01-02 20:00,RBG,16,ONET4P,7,RBG,Inferno
+672,2022-01-30 00:45,ONET4P,9,RBG,16,RBG,Vertigo
+673,2022-02-02 02:00,ONET4P,12,Valors,16,Valors,Mirage
+674,2021-12-15 02:00,ONET4P,16,voLante,11,ONET4P,Nuke
+675,2022-01-20 12:35,Apeks,16,OneTap,13,Apeks,Overpass
+676,2022-01-18 09:00,Enterprise,16,OneTap,11,Enterprise,Inferno
+677,2022-01-18 09:00,Enterprise,16,OneTap,11,Enterprise,Inferno
+678,2022-01-19 09:00,OneTap,19,eSuba,17,OneTap,Overpass
+679,2022-01-17 09:00,OneTap,10,Tricked,16,Tricked,Nuke
+680,2021-12-15 10:00,8Ballers,0,ORDER,16,ORDER,Dust2
+681,2021-12-20 08:00,ORDER,14,LookingForOrg,16,LookingForOrg,Nuke
+682,2021-12-20 08:00,ORDER,16,LookingForOrg,14,ORDER,Overpass
+683,2021-12-20 08:00,ORDER,13,LookingForOrg,16,LookingForOrg,Vertigo
+684,2021-12-16 10:00,Paradox,8,ORDER,16,ORDER,Vertigo
+685,2021-12-17 10:00,VERTEX,19,ORDER,22,ORDER,Overpass
+686,2022-01-31 01:00,ChocoCheck,13,Orgless,16,Orgless,Inferno
+687,2022-01-30 22:00,Orgless,16,Strife,7,Orgless,Overpass
+688,2022-01-30 00:30,Orgless,16,Third Impact,9,Orgless,Overpass
+689,2021-12-16 10:30,Hazard,16,Overt,14,Hazard,Vertigo
+690,2021-12-15 10:00,Overt,11,VERTEX,16,VERTEX,Vertigo
+691,2022-01-18 16:00,PACT,16,cowana,7,PACT,Vertigo
+692,2021-12-18 19:00,PACT,14,Into the Breach,16,Into the Breach,Ancient
+693,2021-12-16 16:15,LDLC,16,PACT,13,LDLC,Nuke
+694,2022-01-22 16:00,Los Reyes,16,PACT,14,Los Reyes,Ancient
+695,2022-01-19 16:00,Nemiga,16,PACT,8,Nemiga,Inferno
+696,2021-12-17 19:00,PACT,16,Tricked,14,PACT,Vertigo
+697,2021-12-17 19:00,PACT,8,Tricked,16,Tricked,Overpass
+698,2021-12-17 19:00,PACT,16,Tricked,12,PACT,Nuke
+699,2021-12-19 02:00,ChocoCheck,13,paiN,16,paiN,Inferno
+700,2021-12-19 02:00,ChocoCheck,16,paiN,14,ChocoCheck,Ancient
+701,2021-12-17 02:00,Party Astronauts,2,paiN,16,paiN,Overpass
+702,2021-12-15 02:00,paiN,16,RBG,3,paiN,Overpass
+703,2021-12-18 02:00,paiN,10,RBG,16,RBG,Inferno
+704,2021-12-16 02:00,paiN,16,TeamOne,8,paiN,Overpass
+705,2021-12-15 10:00,Paradox,16,1620 Kings,1,Paradox,Inferno
+706,2021-12-18 10:00,Paradox,16,LookingForOrg,13,Paradox,Overpass
+707,2021-12-18 10:00,Paradox,4,LookingForOrg,16,LookingForOrg,Nuke
+708,2021-12-16 10:00,Paradox,16,ORDER,19,ORDER,Dust2
+709,2021-12-17 10:00,Paradox,16,Overt,13,Paradox,Vertigo
+710,2022-01-23 22:10,Party Astronauts,16,ATK,12,Party Astronauts,Inferno
+711,2022-02-02 02:00,Party Astronauts,19,ChocoCheck,17,Party Astronauts,Inferno
+712,2022-01-27 02:00,Party Astronauts,16,Disconnected,3,Party Astronauts,Mirage
+713,2021-12-16 02:00,Party Astronauts,4,Extra Salt,16,Extra Salt,Ancient
+714,2021-12-17 02:00,Party Astronauts,12,paiN,16,paiN,Nuke
+715,2022-01-17 00:40,Party Astronauts,16,RBG,14,Party Astronauts,Inferno
+716,2022-01-16 22:00,Party Astronauts,16,Strife,14,Party Astronauts,Mirage
+717,2021-12-15 02:00,Triumph,10,Party Astronauts,16,Party Astronauts,Inferno
+718,2022-01-22 20:10,Party Astronauts,16,Villainous,6,Party Astronauts,Dust2
+719,2022-01-24 00:45,Party Astronauts,16,Villainous,8,Party Astronauts,Mirage
+720,2022-01-22 21:30,ATK,10,Paying Myself,16,Paying Myself,Mirage
+721,2022-01-22 20:10,RBG,14,Paying Myself,16,Paying Myself,Inferno
+722,2022-01-23 22:10,Paying Myself,7,Villainous,16,Villainous,Mirage
+723,2022-01-27 19:30,Protos,6,Undefeated,16,Undefeated,Inferno
+724,2022-01-27 19:30,Protos,19,Undefeated,15,Protos,Dust2
+725,2022-01-27 19:30,Protos,16,Undefeated,5,Protos,Mirage
+726,2022-01-22 22:50,ATK,16,RBG,9,ATK,Inferno
+727,2021-12-17 02:00,RBG,7,Bad News Bears,16,Bad News Bears,Dust2
+728,2022-01-02 23:40,ChocoCheck,19,RBG,16,ChocoCheck,Mirage
+729,2021-12-16 02:00,RBG,11,ChocoCheck,16,ChocoCheck,Mirage
+730,2022-01-30 22:00,ChocoCheck,16,RBG,10,ChocoCheck,Mirage
+731,2022-01-02 20:00,RBG,15,ONET4P,19,ONET4P,Mirage
+732,2022-01-16 22:00,RBG,16,ONET4P,4,RBG,Mirage
+733,2021-12-18 02:00,paiN,16,RBG,9,paiN,Nuke
+734,2021-12-15 02:00,paiN,14,RBG,16,RBG,Vertigo
+735,2021-12-15 02:00,paiN,7,RBG,16,RBG,Nuke
+736,2021-12-18 02:00,paiN,16,RBG,9,paiN,Overpass
+737,2022-01-17 00:40,Party Astronauts,16,RBG,6,Party Astronauts,Nuke
+738,2022-01-26 02:00,Third Impact,11,RBG,16,RBG,Inferno
+739,2022-01-22 21:30,X13,13,RBG,16,RBG,Overpass
+740,2022-01-13 02:00,Redragon,16,ELEVATE,8,Redragon,Inferno
+741,2022-01-12 01:00,Stars Horizon,11,Redragon,16,Redragon,Vertigo
+742,2022-01-16 23:00,Redragon,16,SWS,19,SWS,Vertigo
+743,2022-01-16 23:00,Redragon,6,SWS,16,SWS,Inferno
+744,2022-01-14 22:00,SWS,5,Redragon,16,Redragon,Vertigo
+745,2022-01-14 22:00,SWS,14,Redragon,16,Redragon,Inferno
+746,2022-02-01 22:10,Redragon,9,SWS,16,SWS,Inferno
+747,2022-01-03 06:00,Renewal,16,Checkmate,7,Renewal,Nuke
+748,2022-01-03 06:00,Renewal,13,Checkmate,16,Checkmate,Inferno
+749,2022-01-02 10:40,Steel Helmet,12,Renewal,16,Renewal,Mirage
+750,2022-01-23 17:30,RIP Kobe,16,all aim no name,19,all aim no name,Nuke
+751,2022-01-15 15:10,B8,16,Run or Die,10,B8,Nuke
+752,2022-01-15 15:10,B8,14,Run or Die,16,Run or Die,Mirage
+753,2022-01-09 12:10,Run or Die,16,Doge Soldiers,10,Run or Die,Dust2
+754,2022-01-09 12:10,Run or Die,16,Doge Soldiers,11,Run or Die,Vertigo
+755,2022-01-16 12:05,EC Kyiv,6,Run or Die,16,Run or Die,Inferno
+756,2022-01-20 17:50,Young Ninjas,19,Sangal,17,Young Ninjas,Overpass
+757,2022-01-20 17:50,Young Ninjas,16,Sangal,8,Young Ninjas,Inferno
+758,2022-01-20 19:00,AGO,13,Savage,16,Savage,Vertigo
+759,2022-01-18 18:00,Savage,14,GamerLegion,16,GamerLegion,Overpass
+760,2022-01-18 18:00,Savage,19,GamerLegion,16,Savage,Ancient
+761,2022-01-20 15:15,Savage,16,GMT,10,Savage,Mirage
+762,2022-01-17 12:00,Savage,16,MASONIC,6,Savage,Ancient
+763,2022-01-24 15:30,MOUZ NXT,16,Savage,6,MOUZ NXT,Mirage
+764,2022-02-01 09:50,Nemiga,16,Savage,14,Nemiga,Inferno
+765,2022-02-01 09:50,Nemiga,16,Savage,14,Nemiga,Vertigo
+766,2022-01-19 18:10,Savage,16,SAW,3,Savage,Vertigo
+767,2022-01-26 09:00,SAW,16,Savage,8,SAW,Dust2
+768,2022-01-25 12:00,Sprout,16,Savage,9,Sprout,Dust2
+769,2022-01-26 18:00,Unique,12,Savage,16,Savage,Ancient
+770,2022-01-26 18:00,Unique,4,Savage,16,Savage,Inferno
+771,2021-12-18 19:15,SAW,11,1shot,16,1shot,Nuke
+772,2022-01-25 09:00,1WIN,16,SAW,8,1WIN,Dust2
+773,2022-01-24 18:20,Dignitas,16,SAW,12,Dignitas,Nuke
+774,2022-01-24 18:20,Dignitas,16,SAW,5,Dignitas,Inferno
+775,2022-01-18 15:00,EC Kyiv,16,SAW,14,EC Kyiv,Dust2
+776,2022-01-18 15:00,EC Kyiv,16,SAW,14,EC Kyiv,Dust2
+777,2022-01-17 15:00,SAW,16,eSuba,8,SAW,Inferno
+778,2021-12-19 20:00,SAW,12,Into the Breach,16,Into the Breach,Ancient
+779,2021-12-17 19:00,LDLC,6,SAW,16,SAW,Nuke
+780,2022-01-28 15:25,MOUZ NXT,16,SAW,7,MOUZ NXT,Vertigo
+781,2022-01-19 18:10,Savage,8,SAW,16,SAW,Inferno
+782,2022-01-19 18:10,Savage,3,SAW,16,SAW,Dust2
+783,2022-01-26 09:00,SAW,16,Savage,8,SAW,Ancient
+784,2022-01-24 09:50,SAW,16,SINNERS,12,SAW,Ancient
+785,2022-01-31 16:50,SAW,12,SKADE,16,SKADE,Ancient
+786,2022-01-31 16:50,SAW,3,SKADE,16,SKADE,Overpass
+787,2021-12-16 19:00,SAW,16,Tricked,10,SAW,Overpass
+788,2022-01-27 12:40,SAW,7,Unique,16,Unique,Overpass
+789,2022-01-27 12:40,SAW,16,Unique,6,SAW,Inferno
+790,2021-12-18 01:55,MIBR,16,Sharks,19,Sharks,Nuke
+791,2021-12-21 23:20,Sharks,16,MIBR,13,Sharks,Ancient
+792,2021-12-18 23:30,SWS,19,Sharks,17,SWS,Nuke
+793,2021-12-18 23:30,SWS,14,Sharks,16,Sharks,Inferno
+794,2022-01-23 10:00,1shot,16,SINNERS,14,1shot,Nuke
+795,2022-01-23 10:00,1shot,14,SINNERS,16,SINNERS,Mirage
+796,2022-02-02 13:50,SINNERS,16,BIG Academy,12,SINNERS,Inferno
+797,2021-12-15 19:00,Copenhagen Flames,16,SINNERS,14,Copenhagen Flames,Nuke
+798,2022-01-24 09:50,SAW,7,SINNERS,16,SINNERS,Inferno
+799,2022-01-24 09:50,SAW,16,SINNERS,8,SAW,Nuke
+800,2022-01-25 16:00,SINNERS,12,Wisla Krakow,16,Wisla Krakow,Nuke
+801,2022-01-25 16:00,SINNERS,16,Wisla Krakow,7,SINNERS,Mirage
+802,2022-01-25 15:00,SKADE,14,Apeks,16,Apeks,Ancient
+803,2022-01-28 12:00,SKADE,8,Endpoint,16,Endpoint,Mirage
+804,2022-01-28 12:00,SKADE,7,Endpoint,16,Endpoint,Dust2
+805,2022-01-24 13:35,GamerLegion,5,SKADE,16,SKADE,Inferno
+806,2022-01-27 09:00,SKADE,16,GamerLegion,10,SKADE,Overpass
+807,2022-01-26 12:00,SKADE,19,K23,22,K23,Mirage
+808,2021-12-15 18:00,SKADE,16,Linx Legacy,14,SKADE,Ancient
+809,2022-01-24 09:00,Wisla Krakow,16,SKADE,8,Wisla Krakow,Nuke
+810,2022-01-24 09:00,Wisla Krakow,3,SKADE,16,SKADE,Overpass
+811,2022-01-12 17:00,Spirit Academy,16,Eternal Fire Academy,8,Spirit Academy,Dust2
+812,2022-01-10 17:00,FURIA Academy,9,Spirit Academy,16,Spirit Academy,Mirage
+813,2022-01-08 20:25,MOUZ NXT,7,Spirit Academy,16,Spirit Academy,Mirage
+814,2022-01-06 18:10,VP.Prodigy,16,Spirit Academy,12,VP.Prodigy,Mirage
+815,2022-01-16 18:45,Spirit Academy,16,VP.Prodigy,13,Spirit Academy,Overpass
+816,2022-01-26 12:00,Sprout,16,1WIN,11,Sprout,Dust2
+817,2022-01-25 16:50,Sprout,16,BLINK,5,Sprout,Ancient
+818,2021-12-15 19:00,BLINK,8,Sprout,16,Sprout,Vertigo
+819,2022-01-25 16:50,Sprout,23,BLINK,25,BLINK,Inferno
+820,2022-01-26 15:40,Sprout,16,Dignitas,11,Sprout,Mirage
+821,2022-01-27 15:25,Endpoint,13,Sprout,16,Sprout,Vertigo
+822,2022-01-27 15:25,Endpoint,16,Sprout,19,Sprout,Nuke
+823,2021-12-19 19:00,Sprout,16,Entropiq,7,Sprout,Ancient
+824,2022-01-17 15:00,Sprout,16,Finest,10,Sprout,Overpass
+825,2021-12-16 19:00,Sprout,16,GamerLegion,13,Sprout,Nuke
+826,2022-02-02 09:50,GamerLegion,22,Sprout,25,Sprout,Vertigo
+827,2022-01-31 09:00,Sprout,7,K23,16,K23,Nuke
+828,2022-01-25 12:00,Sprout,6,Savage,16,Savage,Ancient
+829,2022-01-25 12:00,Sprout,16,Savage,10,Sprout,Overpass
+830,2022-01-24 12:00,Sprout,11,Tricked,16,Tricked,Nuke
+831,2022-01-13 22:00,Stars Horizon,16,Black Dragons,4,Stars Horizon,Dust2
+832,2022-01-13 22:00,Stars Horizon,16,Black Dragons,10,Stars Horizon,Inferno
+833,2022-01-15 01:30,ELEVATE,16,Stars Horizon,8,ELEVATE,Vertigo
+834,2022-01-15 01:30,ELEVATE,16,Stars Horizon,10,ELEVATE,Inferno
+835,2022-01-12 01:00,Stars Horizon,10,Redragon,16,Redragon,Dust2
+836,2022-01-03 11:05,Steel Helmet,4,Checkmate,16,Checkmate,Nuke
+837,2022-01-02 10:40,Steel Helmet,16,Renewal,8,Steel Helmet,Dust2
+838,2022-01-02 10:40,Steel Helmet,16,Renewal,7,Steel Helmet,Ancient
+839,2022-01-02 22:50,Strife,12,Bad News Bears,16,Bad News Bears,Overpass
+840,2021-12-18 02:00,Strife,16,Detonate,10,Strife,Inferno
+841,2022-01-30 22:00,Orgless,22,Strife,18,Orgless,Vertigo
+842,2022-01-16 22:00,Party Astronauts,16,Strife,9,Party Astronauts,Overpass
+843,2022-01-30 00:20,Strife,16,Party Astronauts,5,Strife,Overpass
+844,2021-12-17 02:00,Third Impact,2,Strife,16,Strife,Mirage
+845,2022-01-15 23:50,Strife,16,umomd,6,Strife,Inferno
+846,2021-12-16 02:00,Strife,16,Valors,9,Strife,Overpass
+847,2021-12-16 02:00,Strife,14,Valors,16,Valors,Mirage
+848,2022-01-02 19:00,Valors,6,Strife,16,Strife,Mirage
+849,2022-01-12 22:00,Black Dragons,14,SWS,16,SWS,Dust2
+850,2022-01-12 22:00,Black Dragons,11,SWS,16,SWS,Inferno
+851,2022-01-15 23:00,ELEVATE,16,SWS,7,ELEVATE,Nuke
+852,2022-01-15 23:00,ELEVATE,11,SWS,16,SWS,Mirage
+853,2021-12-17 21:20,Liberty,16,SWS,12,Liberty,Vertigo
+854,2021-12-17 21:20,Liberty,14,SWS,16,SWS,Dust2
+855,2021-12-19 23:20,MIBR,16,SWS,8,MIBR,Ancient
+856,2022-02-01 22:10,Redragon,19,SWS,16,Redragon,Dust2
+857,2022-01-16 23:00,Redragon,16,SWS,8,Redragon,Dust2
+858,2022-01-14 22:00,SWS,16,Redragon,13,SWS,Dust2
+859,2022-02-01 22:10,Redragon,16,SWS,3,Redragon,Vertigo
+860,2021-12-18 23:30,SWS,12,Sharks,16,Sharks,Vertigo
+861,2022-01-02 07:00,Checkmate,16,TBC,8,Checkmate,Inferno
+862,2021-12-24 18:00,Team Buster,6,Team StRoGo,16,Team StRoGo,Mirage
+863,2021-12-25 17:15,Team Evelone192,16,Team Buster,6,Team Evelone192,Nuke
+864,2021-12-25 17:15,Team Evelone192,16,Team Buster,5,Team Evelone192,Ancient
+865,2021-12-24 13:30,Team Evelone192,16,Team Shoke,5,Team Evelone192,Nuke
+866,2021-12-26 14:00,Team StRoGo,19,Team Evelone192,15,Team StRoGo,Dust2
+867,2021-12-26 14:00,Team StRoGo,16,Team Evelone192,13,Team StRoGo,Ancient
+868,2021-12-24 13:30,Team Evelone192,16,Team Shoke,19,Team Shoke,Inferno
+869,2021-12-24 13:30,Team Evelone192,14,Team Shoke,16,Team Shoke,Mirage
+870,2021-12-25 13:30,Team Shoke,16,Team StRoGo,4,Team Shoke,Mirage
+871,2021-12-26 18:30,Team Shoke,14,Team StRoGo,16,Team StRoGo,Dust2
+872,2021-12-24 18:00,Team Buster,16,Team StRoGo,11,Team Buster,Inferno
+873,2021-12-24 18:00,Team Buster,14,Team StRoGo,16,Team StRoGo,Ancient
+874,2021-12-25 13:30,Team Shoke,10,Team StRoGo,16,Team StRoGo,Inferno
+875,2021-12-25 13:30,Team Shoke,16,Team StRoGo,9,Team Shoke,Dust2
+876,2021-12-26 18:30,Team Shoke,12,Team StRoGo,16,Team StRoGo,Ancient
+877,2021-12-15 02:00,ChocoCheck,16,TeamOne,14,ChocoCheck,Mirage
+878,2021-12-16 02:00,paiN,16,TeamOne,10,paiN,Nuke
+879,2022-01-27 02:00,ATK,11,Third Impact,16,Third Impact,Nuke
+880,2021-12-16 02:30,Northern Forces,16,Third Impact,12,Northern Forces,Nuke
+881,2022-01-26 02:00,Third Impact,11,RBG,16,RBG,Overpass
+882,2021-12-17 02:00,Third Impact,12,Strife,16,Strife,Overpass
+883,2022-01-30 16:00,Tricked,9,AVANGAR,16,AVANGAR,Mirage
+884,2022-01-26 18:10,Dignitas,16,Tricked,14,Dignitas,Mirage
+885,2022-01-28 09:00,Eternal Fire,16,Tricked,4,Eternal Fire,Dust2
+886,2022-01-21 09:00,Tricked,7,Finest,16,Finest,Mirage
+887,2022-01-18 15:00,Tricked,8,GMT,16,GMT,Mirage
+888,2022-01-18 15:00,Tricked,9,GMT,16,GMT,Inferno
+889,2022-01-20 09:00,Tricked,16,LookingForOrg,13,Tricked,Inferno
+890,2022-01-25 18:30,MOUZ NXT,16,Tricked,10,MOUZ NXT,Mirage
+891,2022-01-17 09:00,OneTap,5,Tricked,16,Tricked,Overpass
+892,2021-12-16 19:00,SAW,16,Tricked,4,SAW,Dust2
+893,2022-01-24 12:00,Sprout,16,Tricked,8,Sprout,Dust2
+894,2022-01-24 12:00,Sprout,14,Tricked,16,Tricked,Vertigo
+895,2022-01-19 15:00,Tricked,13,Wisla Krakow,16,Wisla Krakow,Overpass
+896,2022-01-19 15:00,Tricked,14,Wisla Krakow,16,Wisla Krakow,Mirage
+897,2022-01-19 15:00,Tricked,14,Wisla Krakow,16,Wisla Krakow,Mirage
+898,2022-01-27 15:40,Wisla Krakow,16,Tricked,5,Wisla Krakow,Mirage
+899,2021-12-16 02:00,Triumph,5,Bad News Bears,16,Bad News Bears,Overpass
+900,2021-12-15 02:00,Triumph,11,Party Astronauts,16,Party Astronauts,Nuke
+901,2021-12-15 15:00,Entropiq,16,TTC,8,Entropiq,Mirage
+902,2021-12-15 15:00,Entropiq,16,TTC,4,Entropiq,Nuke
+903,2021-12-18 08:00,TYLOO,19,ViCi,16,TYLOO,Vertigo
+904,2021-12-19 17:30,Anonymo,11,UNGENTIUM,16,UNGENTIUM,Nuke
+905,2021-12-19 17:30,Anonymo,16,UNGENTIUM,13,Anonymo,Inferno
+906,2021-12-19 14:35,UNGENTIUM,16,Dr. Pepper,12,UNGENTIUM,Mirage
+907,2022-01-20 10:00,GMT,11,UNGENTIUM,16,UNGENTIUM,Mirage
+908,2022-01-20 10:00,GMT,14,UNGENTIUM,16,UNGENTIUM,Ancient
+909,2022-01-23 16:00,UNGENTIUM,13,K23,16,K23,Dust2
+910,2022-01-21 13:00,UNGENTIUM,6,KOVA,16,KOVA,Ancient
+911,2022-01-21 13:00,UNGENTIUM,16,KOVA,12,UNGENTIUM,Inferno
+912,2022-01-25 18:00,Dignitas,16,Unique,6,Dignitas,Vertigo
+913,2022-01-18 18:30,Endpoint,16,Unique,5,Endpoint,Vertigo
+914,2022-01-24 15:00,Eternal Fire,17,Unique,19,Unique,Vertigo
+915,2022-01-19 12:00,Finest,23,Unique,25,Unique,Overpass
+916,2022-01-20 15:00,GamerLegion,16,Unique,13,GamerLegion,Mirage
+917,2022-01-20 15:00,GamerLegion,10,Unique,16,Unique,Ancient
+918,2021-12-25 14:30,hxh,12,Unique,16,Unique,Overpass
+919,2022-01-17 18:00,Unique,13,LookingForOrg,16,LookingForOrg,Inferno
+920,2022-01-17 18:00,Unique,16,LookingForOrg,10,Unique,Overpass
+921,2022-01-17 13:00,Unique,10,Los Reyes,16,Los Reyes,Ancient
+922,2022-01-26 16:05,MOUZ NXT,16,Unique,9,MOUZ NXT,Mirage
+923,2022-01-26 18:00,Unique,16,Savage,9,Unique,Dust2
+924,2022-01-27 12:40,SAW,16,Unique,11,SAW,Ancient
+925,2021-12-18 02:30,Valors,8,Brazen,16,Brazen,Ancient
+926,2021-12-20 03:30,Detonate,2,Valors,16,Valors,Inferno
+927,2021-12-17 02:00,Northern Forces,6,Valors,16,Valors,Nuke
+928,2022-02-02 02:00,ONET4P,16,Valors,12,ONET4P,Ancient
+929,2021-12-16 02:00,Strife,16,Valors,14,Strife,Nuke
+930,2022-01-02 19:00,Valors,7,Strife,16,Strife,Inferno
+931,2021-12-19 03:30,X13,16,Valors,14,X13,Vertigo
+932,2022-01-07 19:05,eXploit,16,VELOX,13,eXploit,Ancient
+933,2022-01-07 16:05,GameAgents,9,VELOX,16,VELOX,Mirage
+934,2022-01-08 17:20,VELOX,11,GameAgents,16,GameAgents,Nuke
+935,2021-12-19 10:00,VERTEX,16,LookingForOrg,11,VERTEX,Inferno
+936,2021-12-19 10:00,VERTEX,17,LookingForOrg,19,LookingForOrg,Vertigo
+937,2021-12-16 08:00,LookingForOrg,14,VERTEX,16,VERTEX,Overpass
+938,2021-12-16 08:00,LookingForOrg,8,VERTEX,16,VERTEX,Nuke
+939,2021-12-19 10:00,VERTEX,11,LookingForOrg,16,LookingForOrg,Overpass
+940,2021-12-17 10:00,VERTEX,17,ORDER,19,ORDER,Nuke
+941,2021-12-15 10:00,Overt,8,VERTEX,16,VERTEX,Nuke
+942,2021-12-18 13:15,ViCi,16,Checkmate,7,ViCi,Inferno
+943,2021-12-18 08:00,TYLOO,9,ViCi,16,ViCi,Mirage
+944,2021-12-18 08:00,TYLOO,9,ViCi,16,ViCi,Inferno
+945,2022-01-22 22:10,Eros,15,Villainous,19,Villainous,Inferno
+946,2022-01-24 00:45,Party Astronauts,16,Villainous,4,Party Astronauts,Nuke
+947,2022-01-23 22:10,Paying Myself,12,Villainous,16,Villainous,Vertigo
+948,2021-12-15 17:30,Vitality,16,Astralis,4,Vitality,Nuke
+949,2022-01-30 15:00,Vitality,16,Evil Geniuses,3,Vitality,Inferno
+950,2021-12-16 21:45,G2,13,Vitality,16,Vitality,Mirage
+951,2021-12-18 16:30,Gambit,16,Vitality,13,Gambit,Vertigo
+952,2021-12-19 14:30,Vitality,12,Natus Vincere,16,Natus Vincere,Nuke
+953,2021-12-16 02:00,voLante,14,Brazen,16,Brazen,Nuke
+954,2021-12-15 02:00,ONET4P,16,voLante,11,ONET4P,Vertigo
+955,2021-12-17 02:00,voLante,16,X13,13,voLante,Overpass
+956,2021-12-17 02:00,voLante,8,X13,16,X13,Vertigo
+957,2022-01-10 20:10,Eternal Fire Academy,16,VP.Prodigy,12,Eternal Fire Academy,Mirage
+958,2022-01-15 19:35,Eternal Fire Academy,22,VP.Prodigy,19,Eternal Fire Academy,Inferno
+959,2022-01-14 19:30,FURIA Academy,16,VP.Prodigy,14,FURIA Academy,Mirage
+960,2022-01-04 20:35,FURIA Academy,14,VP.Prodigy,16,VP.Prodigy,Mirage
+961,2022-01-14 19:30,FURIA Academy,6,VP.Prodigy,16,VP.Prodigy,Nuke
+962,2022-01-12 20:30,VP.Prodigy,7,MOUZ NXT,16,MOUZ NXT,Mirage
+963,2022-01-06 17:00,Spirit Academy,16,VP.Prodigy,10,Spirit Academy,Mirage
+964,2022-01-06 17:00,Spirit Academy,16,VP.Prodigy,10,Spirit Academy,Mirage
+965,2022-01-16 18:45,Spirit Academy,16,VP.Prodigy,8,Spirit Academy,Nuke
+966,2022-01-22 19:00,777,16,Wisla Krakow,14,777,Ancient
+967,2022-01-22 19:00,777,5,Wisla Krakow,16,Wisla Krakow,Overpass
+968,2022-01-24 19:00,AGO,4,Wisla Krakow,16,Wisla Krakow,Dust2
+969,2022-02-02 15:00,Apeks,5,Wisla Krakow,16,Wisla Krakow,Ancient
+970,2022-01-25 09:00,BLINK,6,Wisla Krakow,16,Wisla Krakow,Mirage
+971,2022-01-20 12:00,Wisla Krakow,16,EC Kyiv,14,Wisla Krakow,Dust2
+972,2022-01-20 12:00,Wisla Krakow,16,EC Kyiv,5,Wisla Krakow,Mirage
+973,2022-01-17 20:35,Wisla Krakow,16,Endpoint,14,Wisla Krakow,Inferno
+974,2022-01-17 20:35,Wisla Krakow,14,Endpoint,16,Endpoint,Dust2
+975,2022-01-20 21:25,Wisla Krakow,16,FTW,10,Wisla Krakow,Ancient
+976,2022-02-01 18:25,FURIA,8,Wisla Krakow,16,Wisla Krakow,Inferno
+977,2022-01-26 15:35,Wisla Krakow,16,GamerLegion,3,Wisla Krakow,Ancient
+978,2022-01-18 12:00,LookingForOrg,7,Wisla Krakow,16,Wisla Krakow,Inferno
+979,2022-01-25 16:00,SINNERS,16,Wisla Krakow,13,SINNERS,Ancient
+980,2022-01-24 09:00,Wisla Krakow,11,SKADE,16,SKADE,Ancient
+981,2022-01-19 15:00,Tricked,19,Wisla Krakow,15,Tricked,Nuke
+982,2022-01-27 15:40,Wisla Krakow,16,Tricked,11,Wisla Krakow,Nuke
+983,2022-01-22 20:10,ATK,16,X13,7,ATK,Inferno
+984,2021-12-16 03:30,Detonate,16,X13,9,Detonate,Ancient
+985,2021-12-15 02:00,MIBR,16,X13,2,MIBR,Ancient
+986,2021-12-18 02:00,Third Impact,11,X13,16,X13,Mirage
+987,2021-12-18 02:00,Third Impact,7,X13,16,X13,Vertigo
+988,2021-12-19 03:30,X13,12,Valors,16,Valors,Mirage
+989,2021-12-19 03:30,X13,8,Valors,16,Valors,Overpass
+990,2021-12-17 02:00,voLante,8,X13,16,X13,Inferno
+991,2022-01-03 18:10,Astralis Talent,14,Young Ninjas,16,Young Ninjas,Vertigo
+992,2022-01-16 16:00,Young Ninjas,12,Astralis Talent,16,Astralis Talent,Nuke
+993,2022-01-09 19:35,Young Ninjas,14,BIG Academy,16,BIG Academy,Inferno
+994,2022-01-23 14:00,Young Ninjas,7,Copenhagen Flames,16,Copenhagen Flames,Dust2
+995,2022-01-05 17:00,fnatic Rising,11,Young Ninjas,16,Young Ninjas,Overpass
+996,2022-01-22 10:00,LPSP,16,Young Ninjas,10,LPSP,Nuke
+997,2022-01-11 21:10,Young Ninjas,19,NAVI Junior,15,Young Ninjas,Inferno
+998,2022-01-20 17:50,Young Ninjas,11,Sangal,16,Sangal,Ancient
